@@ -47,8 +47,9 @@ h5{
     margin-bottom: 3rem;
 }
 p{
-    font-size: 17px;
+    font-size: 20px;
     line-height: 140%;
+    
 }
 .heading-p{
     padding-top: 9rem;
@@ -100,11 +101,11 @@ img{
     display: block;
 }
 .icon1{
-    width: 32px;
+    width: 40px;
     height: 40px;
 }
 .icon2{
-    width: 32px;
+    width: 40px;
 }
 .container{
     margin: 0 auto;
@@ -156,7 +157,8 @@ header{
     color: rgb(7, 2, 0);
 }
 .header-left img{
-    width: 500px;
+    width: 300px;
+    border-radius: 100px;
 }
 .header-right h2{
     margin-top: .4rem;
@@ -181,6 +183,7 @@ header{
 .about-left{
     border-radius: 20px;
     overflow: hidden;
+    width: 280px;
 }
 .basic-edu{
     display: flex;
